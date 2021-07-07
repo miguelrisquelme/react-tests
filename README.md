@@ -1,3 +1,19 @@
+# React tests
+
+```
+// instalar as dependencias
+npm i
+
+// dar start no projeto
+npm run start
+
+// em outro terminal ligar o backend
+npm run backend
+
+// rodar todos os testes
+npm run test
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
